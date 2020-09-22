@@ -43,5 +43,6 @@ Current implementations in:
 ### Insertion Sort
 I did this one for my COP3530 class Spring 2020. <br />
 Current implementations in:
-- C++ <br />
-– Python
+- George Washington
+- John Adams
+- Thomas Jefferson
