@@ -33,15 +33,15 @@ Current implementations in:
 ### Bubble Sort
 I did this one for my COP3530 class Spring 2020. <br />
 Current implementations in:
-- C++
+- C++ <br />
 – Python
 ### Selection Sort
 I did this one for my COP3530 class Spring 2020. <br />
 Current implementations in:
-- C++
+- C++ <br />
 – Python
 ### Insertion Sort
 I did this one for my COP3530 class Spring 2020. <br />
 Current implementations in:
-- C++
+- C++ <br />
 – Python
